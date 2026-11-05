@@ -1,0 +1,14 @@
+# systemd unit — copy to /etc/systemd/system/rss-watcher.service
+[Unit]
+Description=RSS Watcher Telegram bot
+After=network-online.target
+
+[Service]
+WorkingDirectory=/opt/rss-watcher-bot
+ExecStart=/opt/rss-watcher-bot/.venv/bin/python -m rss_watcher
+Restart=always
+RestartSec=10
+User=rssbot
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Remote Jobs Board</title>
+  <link>https://jobs.example.com/</link>
+  <item>
+    <title>Junior Python Developer (Remote, Poland)</title>
+    <link>https://jobs.example.com/jobs/103</link>
+    <guid>job-103</guid>
+    <pubDate>Thu, 05 Nov 2026 14:40:00 +0000</pubDate>
+    <description>&lt;p&gt;We are looking for a &lt;b&gt;junior&lt;/b&gt; Python dev. Telegram bots a plus.&lt;/p&gt;</description>
+  </item>
+  <item>
+    <title>Senior Crypto Engineer</title>
+    <link>https://jobs.example.com/jobs/102</link>
+    <guid>job-102</guid>
+    <pubDate>Thu, 05 Nov 2026 13:10:00 +0000</pubDate>
+    <description>Python, Solidity, 7+ years.</description>
+  </item>
+  <item>
+    <title>Customer Support Specialist — Ukrainian</title>
+    <link>https://jobs.example.com/jobs/101</link>
+    <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Chat &amp; email support, Poznań or remote.</description>
+  </item>
+</channel>
+</rss>
