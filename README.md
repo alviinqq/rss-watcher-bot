@@ -5,8 +5,7 @@ GitHub releases, forums — and sends you **only new posts that match your keywo
 
 > Stop checking ten sites a day. Subscribe once, filter by keywords, get pinged instantly.
 
-<!-- Demo: add a GIF/screenshot here, e.g. docs/demo.gif -->
-![demo](docs/demo.gif)
+![Bot sending Hacker News posts that match "python, ai"](docs/demo.png)
 
 ## Features
 
